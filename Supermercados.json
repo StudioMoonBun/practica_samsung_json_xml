@@ -1,0 +1,1258 @@
+[
+    {
+        "nombre": "Mercadona",
+        "direccion": {
+            "calle": "CC El Mirador, Autovía Gc-1",
+            "numero": "Salida 5",
+            "codigo_postal": "35220",
+            "ciudad": "Las Palmas de Gran Canaria",
+            "provincia": "Las Palmas",
+            "pais": "España"
+        },
+        "geolocalizacion": {
+            "latitud": 28.032811639536707,
+            "longitud": -15.405680736088817,
+            "ciudad": "Las Palmas de Gran Canaria",
+            "país": "España"
+        },
+        "productos": [
+            {
+                "nombre": "Yogur",
+                "unidades": 1,
+                "precio": 1.70,
+                "unidad de medida": "6x125g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Huevos",
+                "unidades": 1,
+                "precio": 2.20,
+                "unidad de medida": "12u",
+                "oferta": true,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Pan",
+                "unidades": 2,
+                "precio": 1.15,
+                "unidad de medida": "3u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Tomates",
+                "unidades": 1,
+                "precio": 2.09,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Nata",
+                "unidades": 2,
+                "precio": 1.15,
+                "unidad de medida": "3x200ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Cereales",
+                "unidades": 1,
+                "precio": 1.50,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Zumo",
+                "unidades": 2,
+                "precio": 1.30,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Leche Evaporada",
+                "unidades": 6,
+                "precio": 1.63,
+                "unidad de medida": "3x200ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "unidades": 1,
+                "precio": 5.63,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Fresas",
+                "unidades": 1,
+                "precio": 2.40,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Café",
+                "unidades": 1,
+                "precio": 3.25,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Queso",
+                "unidades": 2,
+                "precio": 1.54,
+                "unidad de medida": "200g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Salmón",
+                "unidades": 1,
+                "precio": 10.36,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Atún",
+                "unidades": 1,
+                "precio": 5.02,
+                "unidad de medida": "6x60g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Plátanos",
+                "unidades": 1,
+                "precio": 1.99,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            }
+        ]
+    },
+    {
+        "nombre": "Carrefour",
+        "direccion": {
+            "calle": "CC Las Arenas, Ctra. del Rincón",
+            "codigo_postal": "35010",
+            "ciudad": "Las Palmas de Gran Canaria",
+            "provincia": "Las Palmas",
+            "pais": "España"
+        },
+        "geolocalizacion": {
+            "latitud": 28.12946770698976,
+            "longitud": -15.449492762915682,
+            "ciudad": "Las Palmas de Gran Canaria",
+            "país": "España"
+        },
+        "productos": [
+            {
+                "nombre": "Yogur",
+                "unidades": 1,
+                "precio": 1.45,
+                "unidad de medida": "6x125g",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Huevos",
+                "unidades": 1,
+                "precio": 2.19,
+                "unidad de medida": "12u",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Pan",
+                "unidades": 2,
+                "precio": 1.05,
+                "unidad de medida": "3u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Tomates",
+                "unidades": 8,
+                "precio": 1.69,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": "permanent",
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Nata",
+                "unidades": 2,
+                "precio": 1.54,
+                "unidad de medida": "500ml",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Cereales",
+                "unidades": 1,
+                "precio": 1.29,
+                "unidad de medida": "500g",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Zumo",
+                "unidades": 2,
+                "precio": 0.99,
+                "unidad de medida": "1L",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Leche Evaporada",
+                "unidades": 6,
+                "precio": 1.86,
+                "unidad de medida": "500ml",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "unidades": 1,
+                "precio": 5.31,
+                "unidad de medida": "1L",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Fresas",
+                "unidades": 1,
+                "precio": 3.39,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": "permanent",
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Café",
+                "unidades": 1,
+                "precio": 3.19,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Queso",
+                "unidades": 2,
+                "precio": 0.99,
+                "unidad de medida": "125g",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Salmón",
+                "unidades": 1,
+                "precio": 12.49,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Atún",
+                "unidades": 1,
+                "precio": 6.69,
+                "unidad de medida": "8x52g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Plátanos",
+                "unidades": 1,
+                "precio": 3.65,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": "permanent",
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            }
+        ]
+    },
+    {
+        "nombre": "Lidl",
+        "direccion": {
+            "calle": "Av. Juan Carlos I",
+            "codigo_postal": "35019",
+            "ciudad": "Las Palmas de Gran Canaria",
+            "provincia": "Las Palmas",
+            "pais": "España"
+        },
+        "geolocalizacion": {
+            "latitud": 28.116196332275095,
+            "longitud": -15.447239286940714,
+            "ciudad": "Las Palmas de Gran Canaria",
+            "país": "España"
+        },
+        "productos": [
+            {
+                "nombre": "Yogur",
+                "unidades": 1,
+                "precio": 1.85,
+                "unidad de medida": "6x125g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Huevos",
+                "unidades": 1,
+                "precio": 2.15,
+                "unidad de medida": "12u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Pan",
+                "unidades": 2,
+                "precio": 0.89,
+                "unidad de medida": "1u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Tomates",
+                "unidades": 1,
+                "precio": 2.59,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Nata",
+                "unidades": 1,
+                "precio": 1.49,
+                "unidad de medida": "500ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Cereales",
+                "unidades": 1,
+                "precio": 1.09,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Zumo",
+                "unidades": 2,
+                "precio": 0.99,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Leche Evaporada",
+                "unidades": 6,
+                "precio": 1.39,
+                "unidad de medida": "500ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "unidades": 1,
+                "precio": 6.65,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Fresas",
+                "unidades": 1,
+                "precio": 1.97,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Café",
+                "unidades": 1,
+                "precio": 0.99,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Queso",
+                "unidades": 2,
+                "precio": 1.79,
+                "unidad de medida": "250g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Salmón",
+                "unidades": 1,
+                "precio": 18.78,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Atún",
+                "unidades": 1,
+                "precio": 3.55,
+                "unidad de medida": "6x52g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Plátanos",
+                "unidades": 1,
+                "precio": 1.92,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            }
+        ]
+    },
+    {
+        "nombre": "Alcampo",
+        "direccion": {
+            "calle": "CC La Mareta, Highway Gran Canaria I, Km. 8",
+            "codigo_postal": "35212",
+            "ciudad": "Telde",
+            "provincia": "Las Palmas de Gran Canaria",
+            "pais": "España"
+        },
+        "geolocalizacion": {
+            "latitud": 28.01143124678664,
+            "longitud": -15.387291731125456,
+            "ciudad": "Las Palmas de Gran Canaria",
+            "país": "España"
+        },
+        "productos": [
+            {
+                "nombre": "Yogur",
+                "unidades": 1,
+                "precio": 2.29,
+                "unidad de medida": "4x125g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Huevos",
+                "unidades": 1,
+                "precio": 1.99,
+                "unidad de medida": "12u",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 11
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Pan",
+                "unidades": 2,
+                "precio": 0.75,
+                "unidad de medida": "1u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Tomates",
+                "unidades": 1,
+                "precio": 2.29,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 11
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Nata",
+                "unidades": 3,
+                "precio": 0.89,
+                "unidad de medida": "200ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Cereales",
+                "unidades": 1,
+                "precio": 1.05,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Zumo",
+                "unidades": 2,
+                "precio": 1.29,
+                "unidad de medida": "1.5L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Leche Evaporada",
+                "unidades": 6,
+                "precio": 2.04,
+                "unidad de medida": "525ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "unidades": 1,
+                "precio": 5.63,
+                "unidad de medida": "1L",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 11
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Fresas",
+                "unidades": 1,
+                "precio": 5.29,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 11
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Café",
+                "unidades": 1,
+                "precio": 1.49,
+                "unidad de medida": "250g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Queso",
+                "unidades": 2,
+                "precio": 1.53,
+                "unidad de medida": "200g",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 11
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Salmón",
+                "unidades": 1,
+                "precio": 12.95,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 11
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Atún",
+                "unidades": 1,
+                "precio": 4.37,
+                "unidad de medida": "6x52g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Plátanos",
+                "unidades": 1,
+                "precio": 1.89,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            }
+        ]
+    },
+    {
+        "nombre": "HiperDino",
+        "direccion": {
+            "calle": "Luis Doreste Silva",
+            "numero": 46,
+            "codigo_postal": "35004",
+            "ciudad": "Las Palmas de Gran Canaria",
+            "provincia": "Las Palmas",
+            "pais": "España"
+        },
+        "geolocalizacion": {
+            "latitud": 28.11886230212105,
+            "longitud": -15.422167973450103,
+            "ciudad": "Las Palmas de Gran Canaria",
+            "país": "España"
+        },
+        "productos": [
+            {
+                "nombre": "Yogur",
+                "unidades": 1,
+                "precio": 1.70,
+                "unidad de medida": "6x125g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Huevos",
+                "unidades": 1,
+                "precio": 2.89,
+                "unidad de medida": "12u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Pan",
+                "unidades": 2,
+                "precio": 1.2,
+                "unidad de medida": "1u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Tomates",
+                "unidades": 1,
+                "precio": 2.39,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Nata",
+                "unidades": 3,
+                "precio": 0.69,
+                "unidad de medida": "200ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Cereales",
+                "unidades": 1,
+                "precio": 1.60,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Zumo",
+                "unidades": 2,
+                "precio": 0.95,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Leche Evaporada",
+                "unidades": 6,
+                "precio": 1.19,
+                "unidad de medida": "410ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "unidades": 1,
+                "precio": 3.49,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Fresas",
+                "unidades": 1,
+                "precio": 5.38,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Café",
+                "unidades": 1,
+                "precio": 1.70,
+                "unidad de medida": "250g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Queso",
+                "unidades": 2,
+                "precio": 1.58,
+                "unidad de medida": "200g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Salmón",
+                "unidades": 1,
+                "precio": 14.95,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Atún",
+                "unidades": 1,
+                "precio": 4.5,
+                "unidad de medida": "6x70g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Plátanos",
+                "unidades": 1,
+                "precio": 1.69,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            }
+        ]
+    },
+    {
+        "nombre": "Aldi",
+        "direccion": {
+            "calle": "Rotonda Concejal Juan Rodríguez Betancourt",
+            "numero": 1,
+            "codigo_postal": "35214",
+            "ciudad": "Telde",
+            "provincia": "Las Palmas de Gran Canaria",
+            "pais": "España"
+        },
+        "geolocalizacion": {
+            "latitud": 27.995160014624176,
+            "longitud": -15.390571531125786,
+            "ciudad": "Las Palmas de Gran Canaria",
+            "país": "España"
+        },
+        "productos": [
+            {
+                "nombre": "Yogur",
+                "unidades": 1,
+                "precio": 1.95,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 9
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Huevos",
+                "unidades": 1,
+                "precio": 1.70,
+                "unidad de medida": "12u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Pan",
+                "unidades": 1,
+                "precio": 0.69,
+                "unidad de medida": "1u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Tomates",
+                "unidades": 1,
+                "precio": 2.55,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Nata",
+                "unidades": 2,
+                "precio": 1.35,
+                "unidad de medida": "3x200ml",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 10
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Cereales",
+                "unidades": 1,
+                "precio": 1,
+                "unidad de medida": "500g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Zumo",
+                "unidades": 2,
+                "precio": 1.29,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Leche Evaporada",
+                "unidades": 6,
+                "precio": 2.69,
+                "unidad de medida": "3x210ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "unidades": 1,
+                "precio": 6.19,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Fresas",
+                "unidades": 1,
+                "precio": 2.99,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Café",
+                "unidades": 1,
+                "precio": 0.99,
+                "unidad de medida": "250g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Queso",
+                "unidades": 2,
+                "precio": 0.79,
+                "unidad de medida": "125g",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 15
+                },
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Salmón",
+                "unidades": 1,
+                "precio": 15.98,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Atún",
+                "unidades": 1,
+                "precio": 3.49,
+                "unidad de medida": "6x60g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Plátanos",
+                "unidades": 1,
+                "precio": 2.86,
+                "unidad de medida": "1Kg",
+                "oferta": true,
+                "vigencia oferta": {
+                    "año": 2023,
+                    "mes": 5,
+                    "día": 9
+                },
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            }
+        ]
+    },
+    {
+        "nombre": "Unide",
+        "direccion": {
+            "calle": "Calzada Lateral del Norte",
+            "numero": 3,
+            "codigo_postal": "35014",
+            "ciudad": "Las Palmas de Gran Canaria",
+            "provincia": "Las Palmas",
+            "pais": "España"
+        },
+        "geolocalizacion": {
+            "latitud": 28.105567888720216,
+            "longitud": -15.427468059959837,
+            "ciudad": "Las Palmas de Gran Canaria",
+            "país": "España"
+        },
+        "productos": [
+            {
+                "nombre": "Yogur",
+                "unidades": 1,
+                "precio": 1.85,
+                "unidad de medida": "4x110g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Huevos",
+                "unidades": 1,
+                "precio": 2.49,
+                "unidad de medida": "12u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Pan",
+                "unidades": 2,
+                "precio": 0.48,
+                "unidad de medida": "1u",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Tomates",
+                "unidades": 1,
+                "precio": 3.75,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Nata",
+                "unidades": 2,
+                "precio": 2.09,
+                "unidad de medida": "500ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Cereales",
+                "unidades": 1,
+                "precio": 2.49,
+                "unidad de medida": "375g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Zumo",
+                "unidades": 2,
+                "precio": 1.85,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Leche Evaporada",
+                "unidades": 6,
+                "precio": 1.17,
+                "unidad de medida": "210ml",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "unidades": 1,
+                "precio": 2.99,
+                "unidad de medida": "1L",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Fresas",
+                "unidades": 1,
+                "precio": "not found",
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Café",
+                "unidades": 1,
+                "precio": 1.49,
+                "unidad de medida": "250g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Queso",
+                "unidades": 2,
+                "precio": 3.08,
+                "unidad de medida": "150g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Salmón",
+                "unidades": 1,
+                "precio": 30.95,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Atún",
+                "unidades": 1,
+                "precio": 2.50,
+                "unidad de medida": "3x52g",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": true,
+                "Comprado": "false"
+            },
+            {
+                "nombre": "Plátanos",
+                "unidades": 1,
+                "precio": 1.75,
+                "unidad de medida": "1Kg",
+                "oferta": false,
+                "vigencia oferta": false,
+                "habitual sin oferta": false,
+                "Comprado": "false"
+            }
+        ]
+    }
+]

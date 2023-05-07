@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<supermercados>
+    <name id="supermercado01">Mercadona</name>
+    <direccion>
+        <calle>CC El Mirador, Autovía Gc-1</calle>
+        <numero>Salida 5</numero>
+        <codigo_postal>35220</codigo_postal>
+        <ciudad>Las Palmas de Gran Canaria</ciudad>
+        <provincia>Las Palmas</provincia>
+        <pais>España</pais>
+    </direccion>
+    <geolocalizacion>
+        <latitud>28.032811639536707</latitud>
+        <longuitud>-15.405680736088817</longuitud>
+        <ciudad>Las Palmas de Gran Canaria</ciudad>
+        <pais>España</pais>
+    </geolocalizacion>
+    <Lista_de_la_compra>
+        <producto id="yogur">
+            <nombre>Yogur</nombre>
+            <unidades>1</unidades>
+            <precio>1.70€</precio>
+            <unidad_de_medida>6x125g</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="huevos">
+            <nombre>Huevos</nombre>
+            <unidades>1</unidades>
+            <precio>2.20€</precio>
+            <unidad_de_medida>12u</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="pan">
+            <nombre>Pan</nombre>
+            <unidades>2</unidades>
+            <precio>1.15€</precio>
+            <unidad_de_medida>3u</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="tomates">
+            <nombre>Tomates</nombre>
+            <unidades>1</unidades>
+            <precio>2.09€</precio>
+            <unidad_de_medida>1Kg</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="nata">
+            <nombre>Nata</nombre>
+            <unidades>2</unidades>
+            <precio>1.15€</precio>
+            <unidad_de_medida>3x200ml</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="cereales">
+            <nombre>Cereales</nombre>
+            <unidades>1</unidades>
+            <precio>1.50€</precio>
+            <unidad_de_medida>500g</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="zumo">
+            <nombre>zumo</nombre>
+            <unidades>2</unidades>
+            <precio>1.30€</precio>
+            <unidad_de_medida>1L</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="leche_evaporada">
+            <nombre>Leche evaporada</nombre>
+            <unidades>6</unidades>
+            <precio>1.63€</precio>
+            <unidad_de_medida>3x200ml</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="aceite_de_oliva">
+            <nombre>Aceite de oliva</nombre>
+            <unidades>1</unidades>
+            <precio>5.63</precio>
+            <unidad_de_medida>1L</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="fresas">
+            <nombre>Fresas</nombre>
+            <unidades>1</unidades>
+            <precio>2.40€</precio>
+            <unidad_de_medida>1Kg</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="cafe">
+            <nombre>Café</nombre>
+            <unidades>1</unidades>
+            <precio>3.25€</precio>
+            <unidad_de_medida>500g</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="queso">
+            <nombre>Queso</nombre>
+            <unidades>2</unidades>
+            <precio>1.54€</precio>
+            <unidad_de_medida>200g</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="salmon">
+            <nombre>Salmón</nombre>
+            <unidades>1</unidades>
+            <precio>10.36€</precio>
+            <unidad_de_medida>1Kg</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="atun">
+            <nombre>Atún</nombre>
+            <unidades>1</unidades>
+            <precio>5.02€</precio>
+            <unidad_de_medida>6x60g</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+        <producto id="platanos">
+            <nombre>Plátanos</nombre>
+            <unidades>1</unidades>
+            <precio>1.99€</precio>
+            <unidad_de_medida>1Kg</unidad_de_medida>
+            <oferta>NO</oferta>
+            <vigencia_oferta>NO</vigencia_oferta>
+            <comprado></comprado>
+        </producto>
+    </Lista_de_la_compra>
+</supermercados>
